@@ -8,3 +8,4 @@ script to create a temporary dir in /tmp
 script to move file betty
 script to delete betty file
 script to delete dir my_first_dir
+script to move to previous dir
