@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod ug-wrx,o+wrx hello
+chmod 700 hello
+
