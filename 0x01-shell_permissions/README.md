@@ -6,3 +6,4 @@ a script to create a file hello
 executable helo file
 A script to perfom multiple permissions
 Script to make all users execute a file
+Script to update user permissions on file hello
