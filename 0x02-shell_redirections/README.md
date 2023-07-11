@@ -5,3 +5,4 @@ b.) A script to echo a confused smiley "(Ôo)'
 5.)A script tp print last 10 lines of a fles
 6.)A script to print first 10 line of a file
 7.)TR - Truncate
+7.)TR - Truncate
